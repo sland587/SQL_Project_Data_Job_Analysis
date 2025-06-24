@@ -1,0 +1,2 @@
+ALTER TABLE data_science_jobs
+ALTER COLUMN remote SET DEFAULT FALSE;
