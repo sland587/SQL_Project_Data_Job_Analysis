@@ -269,7 +269,7 @@ Each query not only served to answer a specific question but also to improve my 
 
 Throughout this project, I honed several key SQL techniques and skills:
 
-- **Complex Query Construction**: Learning to build advanced SQL queries that combine multiple tables and employ functions like **`WITH`** clauses for temporary tables.
+- **Complex Query Construction**: Learning to build advanced SQL queries that combine multiple tables and employ functions like **`WITH`** clauses for common table expressions(CTE).
 - **Data Aggregation**: Utilizing **`GROUP BY`** and aggregate functions like **`COUNT()`** and **`AVG()`** to summarize data effectively.
 - **Analytical Thinking**: Developing the ability to translate real-world questions into actionable SQL queries that got insightful answers.
 
