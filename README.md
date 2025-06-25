@@ -136,6 +136,7 @@ LIMIT 5
 | python  | 4330         |
 | tableau | 3745         |
 | power bi| 2609         |
+
 *Table of the demand for the top 5 skills in data analyst job postings*
 
 ### 4. Skills Based on Salary
@@ -201,6 +202,7 @@ LIMIT 25
 | bitbucket     | 116,712        |
 | airflow       | 116,387        |
 | scala         | 115,480        |
+
 *Table of the average salary for the top 25 paying skills for data analysts*
 
 ### 5. Most Optimal Skills to Learn
@@ -258,6 +260,7 @@ LIMIT 25
 | 7        | sas         | 63            | 98,902         |
 | 61       | sql server  | 35            | 97,786         |
 | 9        | javascript  | 20            | 97,587         |
+
 *Table of the most optimal skills for Data Analysts in 2023*
 
 Each query not only served to answer a specific question but also to improve my understanding of SQL and database analysis. Through this project, I learned to leverage SQL's powerful data manipulation capabilities to derive meaningful insights from complex datasets.
