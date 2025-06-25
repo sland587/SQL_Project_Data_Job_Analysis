@@ -20,7 +20,7 @@ WHERE
     job_title_short = 'Data Analyst' AND
     job_work_from_home = TRUE
 GROUP BY
-    SKILLS
+    skills
 ORDER BY
     demand_count DESC
 LIMIT 5
