@@ -6,7 +6,7 @@ Check out my SQL queries here: [project_sql folder](/project_sql/).
 
 # **Background**
 
-This dashboard was completed as part of the [Luke Barousse's SQL for Data Analytics course](https://www.lukebarousse.com/sql) and is designed to demonstrate my working knowledge of core SQL skills. The project is designed to understand the data analyst job market better. This project aimed to discover which skills are paid the most and in demand, making job searches more targeted and effective. 
+This project was completed as part of the [Luke Barousse's SQL for Data Analytics course](https://www.lukebarousse.com/sql) and is designed to demonstrate my working knowledge of core SQL skills. The project is designed to understand the data analyst job market better. This project aimed to discover which skills are paid the most and in demand, making job searches more targeted and effective. 
 
 The data for this analysis is from [Luke Barousse’s SQL Course](https://www.lukebarousse.com/sql). This data includes details on job titles, salaries, locations, and required skills. 
 
